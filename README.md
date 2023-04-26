@@ -1,6 +1,7 @@
 # Belajar Redis
 
 - How to start
+
   docker-compose -f docker-compose.yaml up -d
 
   docker container exec -it redis /bin/sh
